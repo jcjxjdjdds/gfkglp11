@@ -1,4 +1,4 @@
-from os import getenv
+https://t.me/P_E_Yfrom os import getenv
 
 from dotenv import load_dotenv
 
@@ -19,7 +19,7 @@ START_IMG = getenv("START_IMG", "https://telegra.ph/file/0a9d70733b51b40e2d7f1.j
 SESSION = getenv("SESSION", None)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://https://t.me/Tm_S_TNT")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/channel_ALJOKER")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/P_E_Y")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1840881497").split()))
 
